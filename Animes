@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Jojo's",
+    "Location": "Temporadas: 6",
+    "Details": "Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae.",
+    "Image": "https://th.bing.com/th/id/OIP.TbBkX1kDTes3zJU33wXFmgAAAA?rs=1&pid=ImgDetMain",
+    "Population": 10000,
+    "Latitude": -8.783195,
+    "Longitude": 34.508523
+  },
+  {
+    "Name": "Mob psycho 100",
+    "Location": "Temporadas: 3",
+    "Details": "The capuchin monkeys are New World monkeys of the subfamily Cebinae. Prior to 2011, the subfamily contained only a single genus, Cebus.",
+    "Image": "https://th.bing.com/th/id/OIP.TSIyyYLk7A4PG2-w8Q2KlgHaI4?w=1600&h=1920&rs=1&pid=ImgDetMain",
+    "Population": 23000,
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  },
+  {
+    "Name": "Kaguya Sama",
+    "Location": "Temporadas: 3",
+    "Details": "The blue monkey or diademed monkey is a species of Old World monkey native to Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia",
+    "Image": "https://wallpapercave.com/wp/wp4051868.jpg",
+    "Population": 12000,
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
+  },
+  {
+    "Name": "Dr. Stone",
+    "Location": "Temporadas: ",
+    "Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. His favorite platform is iOS by far and is excited for the new iPhone 6s!",
+    "Image": "https://wallpaperaccess.com/full/1220148.jpg",
+    "Population": 1,
+    "Latitude": 47.608013,
+    "Longitude": -122.335167
+  }
+]
